@@ -14,7 +14,7 @@ import time
 GITHUB_API_URL = "https://api.github.com"
 CITY = "Melbourne"
 MIN_FOLLOWERS = 100
-TOKEN = "..."#Replace with token since i had o remove it as it was sensiitve info 
+TOKEN = "..."#Replace with token since i had to remove it as it was sensiitve info 
 
 # Function to check rate limit status
 def check_rate_limit():
@@ -114,7 +114,7 @@ import time
 
 # Constants
 GITHUB_API_URL = "https://api.github.com"
-TOKEN = "..."#Replace with token since i had o remove it as it was sensiitve info 
+TOKEN = "..."#Replace with token since i had to remove it as it was sensiitve info 
 
 # Function to fetch repositories for a given user
 def fetch_user_repositories(username):
